@@ -1,22 +1,9 @@
-## Headout Clone by ~ lastnamearya
-Currently main route(home) and New York route is active.
+## React - Travel Website - Weekend Hackathon App
+The main route (home) and the New York route are currently active.
 
+![1](https://user-images.githubusercontent.com/104451862/205446023-198cc5df-1b4c-4cdf-9d86-dcb647f3e8a8.png)
 
-[<img width="1426" alt="Screenshot 2020-07-19 at 7 25 30 AM" src="https://user-images.githubusercontent.com/6664187/87865323-6fb81f80-c991-11ea-98fd-899b72f17538.png">](https://lastnamearya-headout.netlify.app/)
+![2](https://user-images.githubusercontent.com/104451862/205446047-777b79af-ff68-4161-97e9-b3479a9f809c.png)
 
-[<img width="1423" alt="Screenshot 2020-07-19 at 7 26 17 AM" src="https://user-images.githubusercontent.com/6664187/87865325-76df2d80-c991-11ea-863b-3faf00d1dd53.png">](https://lastnamearya-headout.netlify.app/)
-
-
-[<img width="1427" alt="Screenshot 2020-07-19 at 7 26 32 AM" src="https://user-images.githubusercontent.com/6664187/87865327-78105a80-c991-11ea-87d1-ecd05e551ddb.png">
-](https://lastnamearya-headout.netlify.app/)
-
--------------------------------------------------------
-
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/lastnamearya.svg?style=social&label=Follow%20%40lastnamearya)](https://twitter.com/lastnamearya)
-
-:house:&nbsp; [lastnamearya.github.io](https://lastnamearya.github.io)
-
-:email:&nbsp; arya.jigyasu6815@gmail.com
-
+![3](https://user-images.githubusercontent.com/104451862/205446052-c6239516-92d7-469f-bc78-f05b7638c71c.png)
 
